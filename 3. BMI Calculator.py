@@ -13,15 +13,15 @@ if bmi < 18.5:
     print(f"Your BMI is {bmi}, you are underweight.") 
 
 #Over 18.5 but below 25 they have a normal weight
-elif bmi <=25: 
+elif bmi < 25: 
     print(f"Your BMI is {bmi}, you have normal weight.")
 
 #Over 25 but below 30 they are slightly overweight
-elif bmi <= 30: 
+elif bmi < 30: 
     print(f"Your BMI is {bmi}, you are slightly over weight.")
 
 #Over 30 but below 35 they are obese
-elif bmi <= 35: 
+elif bmi < 35: 
     print(f"Your BMI is {bmi}, you are obese.")
 
 #Above 35 they are clinically obese.
