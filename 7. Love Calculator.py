@@ -31,7 +31,7 @@ love = l + o + v + e
 love_score = int(str(true) + str(love))
 
 # For Love Scores less than 10 or greater than 90
-if love_score < 10 and love_score > 90:
+if love_score < 10 or love_score > 90:
     print(f"Your score is {love_score}, you go together like coke and mentos.")
 
 # For Love Scores between 40 and 50
