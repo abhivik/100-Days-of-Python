@@ -1,5 +1,5 @@
 ## Treasure Map ##
-# WAP that will mark the spot "x"
+# WAP that will mark the spot "x" in a 3x3 matrix 
 row1 = ["⬜️","⬜️","⬜️"]
 row2 = ["⬜️","⬜️","⬜️"]
 row3 = ["⬜️","⬜️","⬜️"]
