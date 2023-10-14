@@ -12,9 +12,5 @@ pip install -r requirements.txt
 
 Alternatively, you can install the dependencies individually using pip or conda.
 
-## Badges
-!Python !License
-
-
 ## Contributing
 This repository is for my personal learning and practice. However, if you find any bugs or errors, you can report them by opening an issue or submitting a pull request.
