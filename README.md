@@ -2,7 +2,7 @@
 
 This repository contains my personal projects and exercises from the 100 Days of Python course by Dr. Angela Yu. The course covers various topics and applications of Python programming, such as data analysis, web development, game development, and more.
 
-Project 1: [Band Name Generator](https://github.com/abhivik/100-Days-of-Python/blob/main/1.1%20Band%20Name%20Generator.py)
+Project 1: [Band Name Generator](https://github.com/abhivik/100-Days-of-Python/blob/main/1.1%20Band%20Name%20Generator.py)<br>
 Project 2: [BMI Calculator](https://github.com/abhivik/100-Days-of-Python/blob/main/2.1%20BMI%20Calculator.py)
 Project 3: [Life In Weeks](https://github.com/abhivik/100-Days-of-Python/blob/main/2.2%20Life%20In%20Weeks.py)
 Project 4: [Tip Calculator](https://github.com/abhivik/100-Days-of-Python/blob/main/2.3%20Tip%20Calculator.py)
