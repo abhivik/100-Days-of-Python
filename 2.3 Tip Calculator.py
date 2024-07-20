@@ -15,7 +15,7 @@ people = int(input("How many people are splitting the bill? "))
 
 #Add the bill with tip and divide it among the number of people.
 #Format the result to 2 decimal places = 33.60
-bill_div = round((bill + tip)/people,2)
+bill_div = (bill + bill*percentage/100)/7
 
 #Print the output with total bill which included tip and splitted as per number of people.
-print(f"Each person should pay: ${bill_div}")
+print(f"Each person should pay: ${round(bill_div})")
